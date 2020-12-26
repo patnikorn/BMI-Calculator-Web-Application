@@ -1,4 +1,4 @@
-# BMI Calculator Web Application
+# BMI Calculator Application
 
 A new Flutter project.
 
